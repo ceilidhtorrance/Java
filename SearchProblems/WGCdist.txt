@@ -1,0 +1,10 @@
+WGCY	7
+WC	6
+WCY	5
+C	4
+W	4.5
+GCY	3
+WGY	3.5
+G	2
+GY	1
+N	0
